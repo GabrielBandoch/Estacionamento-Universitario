@@ -1,0 +1,89 @@
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\bin\Debug\net7.0\EstacioUniv.exe
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\bin\Debug\net7.0\EstacioUniv.deps.json
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\bin\Debug\net7.0\EstacioUniv.runtimeconfig.json
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\bin\Debug\net7.0\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\bin\Debug\net7.0\EstacioUniv.pdb
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstacioUniv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstacioUniv.AssemblyInfoInputs.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstacioUniv.AssemblyInfo.cs
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstacioUniv.csproj.CoreCompileInputs.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\refint\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstacioUniv.pdb
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstacioUniv.genruntimeconfig.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\ref\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\bin\Debug\net7.0\EstacioUniv.exe
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\bin\Debug\net7.0\EstacioUniv.deps.json
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\bin\Debug\net7.0\EstacioUniv.runtimeconfig.json
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\bin\Debug\net7.0\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\bin\Debug\net7.0\EstacioUniv.pdb
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\obj\Debug\net7.0\EstacioUniv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\obj\Debug\net7.0\EstacioUniv.AssemblyInfoInputs.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\obj\Debug\net7.0\EstacioUniv.AssemblyInfo.cs
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\obj\Debug\net7.0\EstacioUniv.csproj.CoreCompileInputs.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\obj\Debug\net7.0\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\obj\Debug\net7.0\refint\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\obj\Debug\net7.0\EstacioUniv.pdb
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\obj\Debug\net7.0\EstacioUniv.genruntimeconfig.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniv\obj\Debug\net7.0\ref\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\bin\Debug\net7.0\EstacioUniv.exe
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\bin\Debug\net7.0\EstacioUniv.deps.json
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\bin\Debug\net7.0\EstacioUniv.runtimeconfig.json
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\bin\Debug\net7.0\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\bin\Debug\net7.0\EstacioUniv.pdb
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\obj\Debug\net7.0\EstacioUniv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\obj\Debug\net7.0\EstacioUniv.AssemblyInfoInputs.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\obj\Debug\net7.0\EstacioUniv.AssemblyInfo.cs
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\obj\Debug\net7.0\EstacioUniv.csproj.CoreCompileInputs.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\obj\Debug\net7.0\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\obj\Debug\net7.0\refint\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\obj\Debug\net7.0\EstacioUniv.pdb
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\obj\Debug\net7.0\EstacioUniv.genruntimeconfig.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstacioUniver\obj\Debug\net7.0\ref\EstacioUniv.dll
+C:\Users\vitor\Downloads\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\EstacioUniv.dll
+C:\Users\vitor\Downloads\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\refint\EstacioUniv.dll
+C:\Users\vitor\Downloads\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\EstacioUniv.pdb
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\EstacioUniv.csproj.AssemblyReference.cache
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\EstacioUniv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\EstacioUniv.AssemblyInfoInputs.cache
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\EstacioUniv.AssemblyInfo.cs
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\EstacioUniv.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\EstacioUniv.dll
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\refint\EstacioUniv.dll
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\EstacioUniv.pdb
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\bin\Debug\net7.0\EstacioUniv.exe
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\bin\Debug\net7.0\EstacioUniv.deps.json
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\bin\Debug\net7.0\EstacioUniv.runtimeconfig.json
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\bin\Debug\net7.0\EstacioUniv.dll
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\bin\Debug\net7.0\EstacioUniv.pdb
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\EstacioUniv.genruntimeconfig.cache
+C:\Users\gabriel.bandoch\Downloads\EstacioUniver (4)\EstacioUniver (3)\EstacioUniver\obj\Debug\net7.0\ref\EstacioUniv.dll
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\bin\Debug\net7.0\EstacioUniv.exe
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\bin\Debug\net7.0\EstacioUniv.deps.json
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\bin\Debug\net7.0\EstacioUniv.runtimeconfig.json
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\bin\Debug\net7.0\EstacioUniv.dll
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\bin\Debug\net7.0\EstacioUniv.pdb
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\obj\Debug\net7.0\EstacioUniv.csproj.AssemblyReference.cache
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\obj\Debug\net7.0\EstacioUniv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\obj\Debug\net7.0\EstacioUniv.AssemblyInfoInputs.cache
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\obj\Debug\net7.0\EstacioUniv.AssemblyInfo.cs
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\obj\Debug\net7.0\EstacioUniv.csproj.CoreCompileInputs.cache
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\obj\Debug\net7.0\EstacioUniv.dll
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\obj\Debug\net7.0\refint\EstacioUniv.dll
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\obj\Debug\net7.0\EstacioUniv.pdb
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\obj\Debug\net7.0\EstacioUniv.genruntimeconfig.cache
+C:\Users\felipe.chawischi\Documents\orientado objeto\TrabalhoN3\EstacioUniver\obj\Debug\net7.0\ref\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\bin\Debug\net7.0\EstacioUniv.exe
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\bin\Debug\net7.0\EstacioUniv.deps.json
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\bin\Debug\net7.0\EstacioUniv.runtimeconfig.json
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\bin\Debug\net7.0\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\bin\Debug\net7.0\EstacioUniv.pdb
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\obj\Debug\net7.0\EstacioUniv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\obj\Debug\net7.0\EstacioUniv.AssemblyInfoInputs.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\obj\Debug\net7.0\EstacioUniv.AssemblyInfo.cs
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\obj\Debug\net7.0\EstacioUniv.csproj.CoreCompileInputs.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\obj\Debug\net7.0\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\obj\Debug\net7.0\refint\EstacioUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\obj\Debug\net7.0\EstacioUniv.pdb
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\obj\Debug\net7.0\EstacioUniv.genruntimeconfig.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\TrabalhoUniver\EstacioUniver\obj\Debug\net7.0\ref\EstacioUniv.dll

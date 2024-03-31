@@ -1,0 +1,14 @@
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstaUniv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstaUniv.AssemblyInfoInputs.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstaUniv.AssemblyInfo.cs
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstaUniv.csproj.CoreCompileInputs.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\bin\Debug\net7.0\EstaUniv.exe
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\bin\Debug\net7.0\EstaUniv.deps.json
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\bin\Debug\net7.0\EstaUniv.runtimeconfig.json
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\bin\Debug\net7.0\EstaUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\bin\Debug\net7.0\EstaUniv.pdb
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstaUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\refint\EstaUniv.dll
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstaUniv.pdb
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\EstaUniv.genruntimeconfig.cache
+C:\Users\Leomar\Documents\trabalho felipe\Católica\2 semestre\Orientada objeto\Trabalho Conjunto\EstaUniv\obj\Debug\net7.0\ref\EstaUniv.dll
